@@ -75,7 +75,7 @@ b {
 }
 
 #liner.password::before {/* targets the ::before pseudo-element of the #liner element when it has a password class.*/
-  content: "admin123:";
+  content: "password:";
 }
 
 @keyframes show {
