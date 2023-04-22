@@ -6,10 +6,10 @@ help = [
     '+========================================================================================+',
     '| Commands   | Descriptions                                                              |',
     '+========================================================================================+',
-    '| aboutme    | Who is Brandon Ban?                                                       |',
+    '| aboutme    | Who is Spencer Bauer?                                                     |',
     '| projects   | dont bother, currently empty                                              |',
     '| history    | View command history                                                      |',
-    '| email      | Please don\'t spam my email                                                |',
+    '| email      | Please don\'t spam my email                                               |',
     '| clear      | Clear terminal                                                            |',
     '| banner     | Display the header                                                        |',
     '+========================================================================================+',
@@ -45,7 +45,7 @@ banner = [
 ]
                                                                                                                                   
 
-secret = [
+admin = [
   "<br>",
   '<span class=\"command\">sudo</span>       Only admin can type this command',
   '<span class=\"command\">rm -rf</span>     This will remove all files and directories of this website',
