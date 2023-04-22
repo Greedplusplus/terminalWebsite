@@ -46,7 +46,7 @@ function enterKey(e) {
       pwd = true;
     }
     if (pwd && e.keyCode == 13) { // 13: Enter key
-      loopLines(secret, "color2 margin", 120);
+      loopLines(admin, "color2 margin", 120);
       command.innerHTML = "";
       textarea.value = "";
       pwd = false;
