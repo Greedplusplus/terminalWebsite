@@ -128,7 +128,7 @@ function commander(cmd) {
       addLine("<br>", "command", 80 * commands.length + 50);
       break;
     case "email":
-      addLine('Opening mailto:<a href="mailto:bbkx226@gmail.com">bbkx226@gmail.com</a>...', "color2", 80);
+      addLine('Opening mailto:<a href="mailto:spencerbaue@gmail.com@gmail.com">spencerbaue@gmail.com</a>...', "color2", 80);
       newTab(email);
       break;
     case "clear":
@@ -140,22 +140,9 @@ function commander(cmd) {
     case "banner":
       loopLines(banner, "", 80);
       break;
-    // socials
-    case "linkedin":
-      addLine("Opening LinkedIn...", "color2", 80);
-      newTab(linkedin);
-      break;
     case "github":
       addLine("Opening GitHub...", "color2", 0);
       newTab(github);
-      break;
-    case "facebook":
-      addLine("Opening Facebook...", "color2", 0);
-      newTab(facebook);
-      break;
-    case "instagram":
-      addLine("Opening Instagram...", "color2", 0);
-      newTab(instagram);
       break;
     default:
       addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);
