@@ -40,7 +40,16 @@ banner = [
   '░ ░▒  ░ ░░▒ ░      ░ ░  ░░ ░░   ░ ▒░  ░  ▒    ░ ░  ░  ░▒ ░ ▒░   ▒░▒   ░   ▒   ▒▒ ░░░▒░ ░ ░  ░ ░  ░  ░▒ ░ ▒░',
   '░  ░  ░  ░░          ░      ░   ░ ░ ░           ░     ░░   ░     ░    ░   ░   ▒    ░░░ ░ ░    ░     ░░   ░ ',
         '░              ░  ░         ░ ░ ░         ░  ░   ░         ░            ░  ░   ░        ░  ░   ░     ',
-                                     '░                                 ░                                      ',                                                                                                                 
+                                     '░                                 ░                                      ',   
+                                                                                                              
+                                      '_______',
+                                     '|.-----.|',
+                                     '|| SGB ||',
+                                     '||_.-._||',
+                                     '`--)-(--`',
+                                    '__[=== o]___',
+                                   '|:::::::::::|',
+                                   '`-=========-`()',
                                                                                                          
 ]
                                                                                                                                   
@@ -54,7 +63,7 @@ admin = [
 
 suggestion = [
   "<p class>",
-  "<span class=\"color2\"> </a><br>For a list of available commands, type <span class=\"command\">help</span> .",
+  "<span class=\"color2\"> </a><br>For a list of available commands, type <span class=\"command\">help</span>.",
   "</span>",
   "</p>",
 ]
