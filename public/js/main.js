@@ -90,11 +90,8 @@ function commander(cmd) {
     case "help":
       loopLines(help, "color2 margin", 80);
       break;
-    case "whois":
-      loopLines(whois, "color2 margin", 80);
-      break;
-    case "bbkx":
-      loopLines(bbkx, "color2 margin", 80);
+    case "aboutme":
+      loopLines(aboutme, "color2 margin", 80);
       break;
     case "sudo":
       addLine("Oh no, you're not admin...", "color2", 80);
@@ -108,13 +105,10 @@ function commander(cmd) {
         window.open('https://trollface.dk/');
       }, 1000); 
       break;
-    case "social":
-      loopLines(social, "color2 margin", 80);
-      break;
-    case "bmttuxd":
-      liner.classList.add("password");
-      pw = true;
-      break;
+    // case "bmttuxd":
+     // liner.classList.add("password");
+     // pw = true;
+      // break;
     case "projects":
       loopLines(projects, "color2 margin", 80);
       break;
