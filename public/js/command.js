@@ -1,5 +1,4 @@
-var portfolio = "https://www.bbkx.live/"
-var linkedin = "https://www.linkedin.com/in/bbkx/"
+
 var github = "https://github.com/Greedplusplus"
 var email ="mailto:spencerbaue@gmail.com"
 
@@ -29,14 +28,7 @@ projects = [
     "<br>",
 ]
 
-social = [
-    "<br>",
-    '<span class=\"command\">LinkedIn</span>       <a href="' + linkedin + '" target="_blank">LinkedIn/bbkx226' + "</a>",
-    '<span class=\"command\">GitHub</span>         <a href="' + github + '" target="_blank">GitHub/bbkx226' + "</a>",
-    '<span class=\"command\">Facebook</span>       <a href="' + facebook + '" target="_blank">Facebook/Brandon Ban' + "</a>",
-    '<span class=\"command\">Instagram</span>      <a href="' + instagram + '" target="_blank">Instagram/Brandon Ban' + "</a>",
-    "<br>",
-]
+
 
 banner = [
  '  ██████  ██▓███  ▓█████  ███▄    █  ▄████▄  ▓█████  ██▀███      ▄▄▄▄    ▄▄▄       █    ██ ▓█████  ██▀███  ',
