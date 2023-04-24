@@ -114,7 +114,6 @@ function commander(cmd) {
       break;
     case "password":
       addLine("<span class=\"inherit\"> Ha ha ha! Nice try, my friend, but I'm not easily fooled! </span>", "error", 100);
-      addLine("<span class=\"inherit\"> You'll need to put on your best trickster hat if you want to pull one over on me! 😜 </span>", "error", 100);
       break;
     case "history":
       addLine("<br>", "", 0);
